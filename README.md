@@ -38,7 +38,6 @@ Follow these steps to set up and run the project locally:
 ### Prerequisites
 - Python 3.8+
 - PyTorch (1.8.0+ recommended)
-- Streamlit library
 - Pre-trained MobileNet model file (`mobilenet_covid19.pt`)
 
 ---
